@@ -60,7 +60,7 @@ The script expects logs in plain text format. Each log entry should follow a con
 2. **Run the Script**: Execute the script to process the logs and detect anomalies.
 
 ```bash
-python detect_anomalies.py
+python sherlock.py
 ```
 
 ### Output
